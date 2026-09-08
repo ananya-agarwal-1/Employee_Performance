@@ -86,7 +86,7 @@ export default function LoginPage({ onLoginSuccess }) {
         </form>
 
         <div className="demo-box">
-          <div className="demo-title">Quick Demo Logins (Viva Presentation)</div>
+          <div className="demo-title">Quick Demo Logins</div>
           <div className="demo-buttons">
             <button
               type="button"
