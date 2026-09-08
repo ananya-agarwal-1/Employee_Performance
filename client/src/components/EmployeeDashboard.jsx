@@ -357,7 +357,7 @@ export default function EmployeeDashboard({ user }) {
                           )}
 
                           {/* Appeal Button (if rejected or uncredited approved work) */}
-                          {(item.status === 'rejected' || (!item.credit_awarded && item.status === 'approved')) && (
+                          {item.status === 'rejected' && (
                             <button
                               className="btn btn-danger btn-sm"
                               onClick={() => handleOpenAppealModal(item)}
