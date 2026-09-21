@@ -2,7 +2,7 @@
 
 Employee Performance Management System (EPMS) is a full-stack web application designed to make employee work evaluation more organized and transparent.
 
-The system allows employees to view their work records and track whether their contributions have been credited. Managers can review employee work and approve or reject it. If an employee's work is rejected or not credited, the employee can raise an appeal to a Senior Authority for further review.
+The system allows employees to view their work records and track whether their contributions have been credited. Managers can review employee work and approve or reject it. If an employee's work is rejected or not credited, the employee can raise an appeal to a Senior Authority for further review and better acknowledgement of work.
 
 ## Features
 
